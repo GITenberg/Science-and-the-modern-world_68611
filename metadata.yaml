@@ -1,0 +1,40 @@
+_repo: Science-and-the-modern-world_68611
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitehead, Alfred North
+    alias: Whitehead, A. N. (Alfred North)
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '8283'
+    url: http://www.gutenberg.org/2009/agents/8283
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_North_Whitehead
+description: ''
+gutenberg_issued: '2022-07-25'
+identifiers:
+  gutenberg: '68611'
+  lccn: '25021832'
+language: en
+pgterms:marc904: https://archive.org/details/sciencemodernwor00whit/page/n5/mode/2up
+pgterms:marc905: 20220119041607whitehead
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: KD Weeks, Steve Mattern and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :The MacMillan Company,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Lowell Lectures, 1925
+subjects:
+- !lcsh 'Science'
+- !lcc 'Q'
+- GITenberg
+tableOfContents: The origins of modern science -- Mathematics as an element in the
+  history of thought -- The century of genius -- The eighteenth century -- The romantic
+  reaction -- The nineteenth century -- Relativity -- The quantum theory -- Science
+  and philosophy -- Abstraction -- God -- Religion and science -- Requisites for social
+  progress.
+title: Science and the modern world
+url: http://www.gutenberg.org/ebooks/68611
